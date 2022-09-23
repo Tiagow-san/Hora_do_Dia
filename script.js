@@ -1,7 +1,6 @@
 function load() {
     var elementMsg = document.getElementById("msg")
     var img = document.getElementById("image")
-    var elementHour = document.getElementById("hour")
     var date = new Date()
     var hour = date.getHours()
     var minutes = date.getMinutes()
