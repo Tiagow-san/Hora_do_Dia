@@ -5,4 +5,4 @@ imprime as horas junto com uma saudação.
 <p>
 
 <h1 align='center'>Screenshot</h1>
-<img id='image' scr='./screenshots/screenshot.png' alt='screenshot'>  
+<img align="center" alt="screenshot" src="https://i.imgur.com/MYNxKP9.png">
