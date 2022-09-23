@@ -1,3 +1,8 @@
 # Hora do Dia
-<h1> Verifica a hora da máquina do usuário,
-imprime as horas junto com uma saudação.</h1>
+<p> Verifica a hora da máquina do usuário,
+imprime as horas junto com uma saudação.
+
+<p>
+
+<h1 align='center'>Screenshot</h1>
+<img id='image' scr='./screenshots/sample.png' alt='sample'>  
