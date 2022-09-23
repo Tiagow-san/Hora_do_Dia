@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(59, 59, 59);
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+    width: 500px;
+    border-radius: 15px;
+    color: black;
+    margin: auto;
+}
+
+footer {
+    text-align: footer;
+    margin-top: 690px;
+    text-align: center;
+}
+
+img {
+    margin-top: 20px;
+}
