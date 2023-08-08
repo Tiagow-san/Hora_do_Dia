@@ -6,3 +6,12 @@ imprime as horas e minutos juntos com uma saudação.
 
 <h1 align='center'>Screenshot</h1>
 <img align="center" alt="screenshot" src="https://i.imgur.com/fJGAs1e.jpg">
+
+## 🛠 Tecnologias
+
+- JavaScript
+- HTML
+- CSS
+- Git e Github
+
+
