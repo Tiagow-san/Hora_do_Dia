@@ -4,6 +4,8 @@ imprime as horas e minutos juntos com uma saudação.
 
 ![preview](./.github/preview.PNG)
 
+[🔗 Clique aqui para acessar](https://tiagow-san.github.io/Hora_do_Dia/)
+
 ## 🛠 Tecnologias
 
 - JavaScript
