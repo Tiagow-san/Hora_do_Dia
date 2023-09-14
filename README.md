@@ -1,6 +1,6 @@
 # Hora do Dia
 <p> Verifica a hora da máquina do usuário,
-imprime as horas e minutos juntos com uma saudação.
+imprime as horas e minutos juntos com uma saudação. Projeto desenvolvido no curso de JavaScript para Iniciantes do Gustavo Guanabara 
 
 ![preview](./.github/preview.PNG)
 
